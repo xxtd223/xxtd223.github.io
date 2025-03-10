@@ -3,7 +3,7 @@ secondary_name: "JinYu"
 navbar_name: "JinYU Lu"
 
 positions:
-- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+- logo: /assets/images/badges/sdu.png  # Logo is optional
   name: Position 1 with logo
 - name: Position 2 without logo
 
