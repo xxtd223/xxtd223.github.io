@@ -1,10 +1,10 @@
-primary_name: "Lu"
-secondary_name: "JinYu"
-navbar_name: "JinYU Lu"
+primary_name: "JinYu"
+secondary_name: "Lu"
+navbar_name: "JinYu Lu"
 
 positions:
 - logo: /assets/images/badges/sdu.png  # Logo is optional
-  name: shandong university
+  name: Shandong University
 
 
 email: "202200150218@mail.sdu.edu.cn"
@@ -21,7 +21,7 @@ QQ: 3152567816  # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    I'm JinYu Lu(卢劲宇),a B.E. candidate at <a href="https://www.sdu.edu.cn/" target="_blank">Shandong University</a>
   </p>
   <p>
     There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
