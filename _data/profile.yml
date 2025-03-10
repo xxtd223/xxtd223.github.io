@@ -8,8 +8,9 @@ positions:
 
 
 email: "202200150218@mail.sdu.edu.cn"
+phone: "15911337405"
 # cv_link: link-to-your-cv-file
-wechat: ljy13769387206 # This is an example, replace it with your own Google Scholar ID
+#wechat: "ljy13769387206" # This is an example, replace it with your own Google Scholar ID
 wechat_qrcode: /assets/images/etc/wechat.jpg
 github: xxtd223
  # Do not include the '@' symbol
@@ -21,7 +22,7 @@ github: xxtd223
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I'm JinYu Lu(卢劲宇),a B.E. candidate at <a href="https://www.sdu.edu.cn/" target="_blank">Shandong University</a>
+    I'm JinYu Lu(卢劲宇), a B.E. candidate at <a href="https://www.sdu.edu.cn/" target="_blank">Shandong University</a>
   </p>
   <p>
     My main research interests are machine learning, cryptography, privacy computing, matrix outsourcing, and cloud computing.
@@ -47,12 +48,12 @@ education:
 
 awards:
 - name: Third Prize of Shandong University Outstanding Student Award
-  date: 9.2023
+  date: 2023.09
 - name: First Prize of Special Talent Award of Shandong University
-  date: 9.2023
-- name: Second Prize in the Fifteenth National Mathematics Competition for University Students (Non-Mathematics Group A)
-  date: 9.2023
+  date: 2023.09
+- name: Second Prize in the 15th National Mathematics Competition for University Students (Non-Mathematics Group A)
+  date: 2023.12
 - name: Second Prize of C/C++ Programming in the 15th Blue Bridge Cup Shandong Competition (University Group A)
-  date: 4.2024
+  date: 2024.04
 - name: Second Prize of Shandong University Outstanding Student Award
-  date: 9.2024
+  date: 2024.09
