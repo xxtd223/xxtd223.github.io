@@ -4,8 +4,7 @@ navbar_name: "JinYU Lu"
 
 positions:
 - logo: /assets/images/badges/sdu.png  # Logo is optional
-  name: Position 1 with logo
-- name: Position 2 without logo
+  name: shandong university
 
 
 email: "202200150218@mail.sdu.edu.cn"
