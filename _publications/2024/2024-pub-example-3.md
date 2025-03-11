@@ -10,7 +10,7 @@ pub_date:       "2024"
 
 abstract: >-
   We propose a secure and verifiable distributed document representation outsourcing scheme based on the FBoW model in cloud computing. This scheme employs a novel blind method based on orthogonal symmetric matrices to preserve privacy and minimize computational overhead, achieving a 95.42% improvement in performance.
-cover:          /assets/images/covers/vis1.jpg
+cover:          /assets/images/covers/vis1.png
 authors:
   - Jinyu Lu
   - Xinrong Sun
