@@ -9,7 +9,7 @@ pub_post:       'Under review.'
 pub_date:       "2024"
 
 abstract: >-
-  Photo by Pineapple Supply Co. on Unsplash. Please put a tldr (too-long-didnt-read, 1~2 sentences) of your publication here. It is not recommended to put the actual abstract here because it is usually too long to fit in. $\LaTeX$ is supported. $a=b+c$.
+  We propose a secure and verifiable distributed document representation outsourcing scheme based on the FBoW model in cloud computing. This scheme employs a novel blind method based on orthogonal symmetric matrices to preserve privacy and minimize computational overhead, achieving a 95.42% improvement in performance.
 cover:          /assets/images/covers/vis1.jpg
 authors:
   - Jinyu Lu
