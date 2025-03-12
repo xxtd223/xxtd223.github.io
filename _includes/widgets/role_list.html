@@ -1,0 +1,24 @@
+{%- assign roles = include.roles -%}
+<ul class="list-unstyled mb-0">
+    {% for role in roles %}
+    {%- assign role_name = role -%}
+
+    {%- if role_name == "Team Leader" -%}
+    <li class="small">
+        <strong>🏆 {{ role_name }}</strong>
+    </li>
+    {%- elsif role_name == "Core Member" -%}
+    <li class="small">
+        <strong>⭐ {{ role_name }}</strong>
+    </li>
+    {%- elsif role_name == "Independent Contributor" -%}
+    <li class="small">
+        <strong>🎯 {{ role_name }}</strong>
+    </li>
+    {%- else -%}
+    <li class="small">
+        <strong>👥 {{ role_name }}</strong>
+    </li>
+    {%- endif -%}
+    {% endfor %}
+</ul>
