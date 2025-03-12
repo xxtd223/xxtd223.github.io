@@ -14,7 +14,7 @@
             <p class="mt-0 mb-0 small">Duration: {{ item.date }}</p>
             <p class="mt-0 mb-0 small text-muted">{{ item.description }}</p>
 
-            <p class="small pb-0 mb-0 lh-125 text-muted project-links">
+            <p class="small pb-0 mb-0 lh-125 text-muted abstract-links">
                 {% for link in item.links %}
                 {% if link[1].url %}
                 <a target="{{ link[1]['target'] }}" href="{{ link[1]['url'] }}">[{{ link[0] }}]</a>
@@ -37,7 +37,7 @@
                 <p class="mt-0 mb-0 small">Duration: {{ item.date }}</p>
                 <p class="mt-0 mb-0 small text-muted">{{ item.description }}</p>
 
-                <p class="small pb-0 mb-0 lh-125 text-muted project-links">
+                <p class="small pb-0 mb-0 lh-125 text-muted abstract-links">
                     {% for link in item.links %}
                     {% if link[1].url %}
                     <a target="{{ link[1]['target'] }}" href="{{ link[1]['url'] }}">[{{ link[0] }}]</a>
