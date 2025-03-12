@@ -3,7 +3,7 @@ layout: default
 title : Projects
 navbar_title: Projects
 body_attr: >-
-data-spy="scroll" data-target="#navbar-year" data-offset="100"
+  data-spy="scroll" data-target="#navbar-year" data-offset="100"
 ---
 
 {% assign projects_by_year = site.projects | sort: "date" | reverse | group_by_exp: "item", "item.date | date: '%Y'" %}
