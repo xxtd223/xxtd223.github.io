@@ -25,7 +25,7 @@ short_bio: >-
     I'm Jinyu Lu(卢劲宇), a B.E. candidate at <a href="https://www.sdu.edu.cn/" target="_blank">Shandong University</a>.
   </p>
   <p>
-    My main research interests are machine learning, privacy computing, cryptography, mathematics, and AI-Generated Content.
+    My main research interests are machine learning, privacy computing, mathematics, trustworthy artificial intelligence and AI-Generated Content.
   </p>
 
 portrait_url: /assets/images/photos/1.jpg
@@ -51,7 +51,7 @@ awards:
   date: 2023.09
 - name: First Prize of Special Talent Award of Shandong University
   date: 2023.09
-- name: Second Prize in the 15th National Mathematics Competition for University Students (Non-Mathematics Group A)
+- name: Second Prize in the 15th National Mathematics Competition for University Students
   date: 2023.12
 - name: Second Prize of C/C++ Programming in the 15th Blue Bridge Cup Shandong Competition (University Group A)
   date: 2024.04
